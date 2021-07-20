@@ -12,8 +12,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
-  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C#3&logoColor=1572B6)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++3&logoColor=1572B6)
+  ![C#](https://img.shields.io/badge/-CS-333333?style=flat&logo=C#3&logoColor=1572B6)
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
