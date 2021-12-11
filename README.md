@@ -34,7 +34,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio&logoColor=007ACC)
-  ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellij-ide&logoColor=2C2255)
+  ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=2C2255)
 
 
 <br/>
