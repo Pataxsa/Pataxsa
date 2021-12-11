@@ -10,10 +10,11 @@
 <h3> 🛠 &nbsp;Mes compétences.</h3>
 
 - 💻 &nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
   ![C#](https://img.shields.io/badge/-CS-333333?style=flat&logo=C#3&logoColor=1572B6)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -33,7 +34,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Intelij IDEA](https://img.shields.io/badge/-Intelij%20IDEA-333333?style=flat&logo=intelij-ide&logoColor=2C2255)
 
 
