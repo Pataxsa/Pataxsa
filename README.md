@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;A propos de moi.</h3>
 
-- 🔰 &nbsp; Programmeur débutant.
+- 🔰 &nbsp; Développeur novice.
 - 🎓 &nbsp; Etudiant L1 Info à La Rochelle.
 - 🎂 &nbsp; J'ai 18 ans et j'habite en France.
 - 💻 &nbsp; Je dev principalement en javascript et en python mais des fois aussi en c# et java.
