@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;A propos de moi.</h3>
 
 - 🔰 &nbsp; Développeur novice.
-- 🎓 &nbsp; Etudiant L1 Info à La Rochelle.
+- 🎓 &nbsp; Etudiant L2 Info à La Rochelle.
 - 🎂 &nbsp; J'ai 19 ans et j'habite en France.
-- 💻 &nbsp; Je dev principalement en javascript et en python mais des fois aussi en c# et java.
+- 💻 &nbsp; Je dev principalement en javascript et en python, cependant je sais aussi dev en java et C#.
 
 <h3> 🛠 &nbsp;Mes compétences.</h3>
 
