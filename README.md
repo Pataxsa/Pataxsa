@@ -4,7 +4,7 @@
 
 - 🔰 &nbsp; Développeur novice.
 - 🎓 &nbsp; Etudiant L1 Info à La Rochelle.
-- 🎂 &nbsp; J'ai 18 ans et j'habite en France.
+- 🎂 &nbsp; J'ai 19 ans et j'habite en France.
 - 💻 &nbsp; Je dev principalement en javascript et en python mais des fois aussi en c# et java.
 
 <h3> 🛠 &nbsp;Mes compétences.</h3>
@@ -26,10 +26,14 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
